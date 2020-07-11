@@ -1,11 +1,15 @@
 ### Hi there 👋
 
+I'm a developer with some years of experience.  
+- 🔭 I’m currently working on some projects for an educational organization. I work with ASP.NET Webforms/C# there.
+- 🌱 I'm learning Vue and working on the frontend of a new project using it.  
+- 💻 I did some work with Delphi making Windows desktop applications in the past.
+
 <!--
 **Rahmanism/Rahmanism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
