@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a developer with some years of experience.
-- ⛩ I'm working on a web project which interacts with door controls. I do both back (.net core Web API) and frontend (ReactJs).  
+- ⛩ I'm developing and maintaing a web project that interacts with door controls using .NET Core Web API and ReactJs.  
 - 🔭 I've worked on some projects for an educational organization. I've developed with ASP.NET Webforms/C# there.
 - ⚛️ I've worked on the frontend of a Daroog project using ReactJS.  
 - 💻 I did some work with Delphi making Windows desktop applications in the past.
